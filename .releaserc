@@ -1,0 +1,3 @@
+{
+  "extends": "@sentryc-webapp/sentrycutils-semantic-release"
+}
